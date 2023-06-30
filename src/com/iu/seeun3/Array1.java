@@ -1,7 +1,7 @@
 package com.iu.seeun3;
 
 public class Array1 {
-
+	
 	public static void main(String[] args) {
 		//배열(array)
 		int num=0;
@@ -31,8 +31,6 @@ public class Array1 {
 		
 		int nums3 [] = new int [3];
 		
-		
-		
-		
+			
 	}
 }

@@ -27,5 +27,8 @@ public class Array6 {
 				System.out.println(ars[i][j]);
 			}
 		}
+		
+		
+		
 	}
 }
